@@ -378,10 +378,10 @@ div {
 }
 #code {
     position:absolute;
-    top: -300px;
+    top: -220px;
     left: 180px;
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     background-color: #8B0A50;
 }
 #code p{
@@ -392,9 +392,31 @@ div {
 }
 #code div.line{
     position: relative;
-    top: 330px;
-    left: 355px;
+    top: 325px;
+    left: 275px;
     height: 1px;
-    width: 40px;
+    width: 120px;
+    background-color: yellow;
+}
+#RG {
+    position:absolute;
+    top: -157px;
+    left: 480px;
+    height: 200px;
+    width: 200px;
+    background-color: #d48712;
+}
+#RG p{
+    position: relative;
+    top: 150px;
+    left: 400px;
+    width: 400px;
+}
+#RG div.line{
+    position: relative;
+    top: 172px;
+    left: 180px;
+    height: 1px;
+    width: 210px;
     background-color: yellow;
 }
