@@ -2,10 +2,10 @@ body {
 	background-color: black;
 	margin: 0;
 }
-div {
-	font-family: sans-serif;
+.button a{
+	font-family: 'Press Start 2P';
+	color: white;
 }
-
 .header img {
 	width: 80%;
 	position: center;
@@ -20,6 +20,7 @@ div {
 }
 .blue {
 	margin-left: 14%;
+	margin-top: 100px;
 }
 .red{
 	margin-left: 67%;
